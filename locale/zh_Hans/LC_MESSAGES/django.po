@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-09 16:34+1000\n"
+"POT-Creation-Date: 2025-09-14 22:02+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 #: home/context_processors.py:59 home/context_processors.py:60
 #: home/templates/admin/home/app_index.html:7
 #: home/templates/includes/footer.html:50
-#: home/templates/includes/navigation.html:52
+#: home/templates/includes/navigation.html:719
 msgid "Home"
 msgstr "首页"
 
@@ -53,172 +53,172 @@ msgid "Upload Image"
 msgstr "上传图片"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/context_processors.py:67 home/templates/includes/navigation.html:170
+#: home/context_processors.py:67 home/templates/includes/navigation.html:842
 msgid "Blog"
 msgstr "博客"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/context_processors.py:68 home/templates/includes/navigation.html:178
+#: home/context_processors.py:68 home/templates/includes/navigation.html:850
 #: home/templates/pages/publishedblog.html:8
 msgid "Published Blogs"
 msgstr "发表的博客"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/context_processors.py:69 home/templates/includes/navigation.html:190
+#: home/context_processors.py:69 home/templates/includes/navigation.html:862
 msgid "Discover Hardhat"
 msgstr "探索硬礼帽"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/context_processors.py:70 home/templates/includes/navigation.html:199
+#: home/context_processors.py:70 home/templates/includes/navigation.html:871
 msgid "Internships"
 msgstr "实习"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/context_processors.py:71 home/templates/includes/navigation.html:202
+#: home/context_processors.py:71 home/templates/includes/navigation.html:874
 msgid "Job Alerts"
 msgstr "工作提醒"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/context_processors.py:72 home/templates/includes/navigation.html:215
+#: home/context_processors.py:72 home/templates/includes/navigation.html:887
 msgid "Cyber Challenges"
 msgstr "网络挑战"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/context_processors.py:73 home/templates/includes/navigation.html:227
+#: home/context_processors.py:73 home/templates/includes/navigation.html:899
 msgid "Quiz"
 msgstr "小测验"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:36
+#: home/forms.py:38
 msgid "Email"
 msgstr "电子邮件"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:42 home/forms.py:125
+#: home/forms.py:44 home/forms.py:127
 msgid "Your Password"
 msgstr "您的密码"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:46 home/forms.py:129
+#: home/forms.py:48 home/forms.py:131
 msgid "Confirm Password"
 msgstr "确认密码"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:55 home/forms.py:138
+#: home/forms.py:57 home/forms.py:140
 msgid "Password must be at least 8 characters long."
 msgstr "密码长度至少为 8 个字符。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:58 home/forms.py:141
+#: home/forms.py:60 home/forms.py:143
 msgid "Password must include at least one lowercase letter."
 msgstr "密码必须至少包含一个小写字母。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:61 home/forms.py:144
+#: home/forms.py:63 home/forms.py:146
 msgid "Password must include at least one uppercase letter."
 msgstr "密码必须至少包含一个大写字母。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:64 home/forms.py:147
+#: home/forms.py:66 home/forms.py:149
 msgid "Password must include at least one number."
 msgstr "密码必须至少包含一个数字。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:67 home/forms.py:150
+#: home/forms.py:69 home/forms.py:152
 msgid ""
 "Password must include at least one special character (@, $, !, %, *, ?, &)."
 msgstr "密码中必须至少包含一个特殊字符（@、$、!、%、*、?、&）。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:82
+#: home/forms.py:84
 msgid "Email must match your Deakin email."
 msgstr "电子邮件必须与您的迪肯电子邮件一致。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:91 home/forms.py:166
+#: home/forms.py:93 home/forms.py:168
 msgid "First Name"
 msgstr "姓名"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:92 home/forms.py:167
+#: home/forms.py:94 home/forms.py:169
 msgid "Last Name"
 msgstr "姓氏"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:93
+#: home/forms.py:95
 msgid "Deakin Email Address"
 msgstr "迪肯大学电子邮件地址"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:114
+#: home/forms.py:116
 msgid "Business Email"
 msgstr "商业电子邮件"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:120
+#: home/forms.py:122
 msgid "Business Name"
 msgstr "企业名称"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:168
+#: home/forms.py:170
 #, fuzzy
 #| msgid "Business Email"
 msgid "Business Email Address"
 msgstr "商业电子邮件"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:182 home/forms.py:239
+#: home/forms.py:184 home/forms.py:241
 msgid "Password"
 msgstr "密码"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:199 home/forms.py:222
+#: home/forms.py:201 home/forms.py:224
 msgid "Too many login attempts. Please try again later."
 msgstr "登录尝试次数过多。请稍后再试。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:277 home/templates/pages/about.html:583
+#: home/forms.py:279 home/templates/pages/about.html:583
 msgid "Your Email"
 msgstr "您的电子邮件"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:283 home/forms.py:295
+#: home/forms.py:285 home/forms.py:297
 msgid "New Password"
 msgstr "新密码"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:286 home/forms.py:298
+#: home/forms.py:288 home/forms.py:300
 msgid "Confirm New Password"
 msgstr "确认新密码"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:292
+#: home/forms.py:294
 msgid "Old Password"
 msgstr "旧密码"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:301
+#: home/forms.py:303
 msgid "Deakin Student ID"
 msgstr "迪肯学生证"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:304
+#: home/forms.py:306
 msgid "Year"
 msgstr "年份"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:514
+#: home/forms.py:516
 msgid "Your name"
 msgstr "您的姓名"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:515
+#: home/forms.py:517
 msgid "Your title"
 msgstr "您的标题"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL] [auto-
 # translated provider=DeepL]
-#: home/forms.py:516
+#: home/forms.py:518
 msgid "Your description"
 msgstr "您的描述"
 
@@ -233,126 +233,126 @@ msgid "Superuser must have is_staff = True"
 msgstr "超级用户必须使用 is_staff = True"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/mixins.py:39 home/models.py:97
+#: home/mixins.py:39 home/models.py:105
 msgid "created_at"
 msgstr "创建时间"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/mixins.py:40 home/models.py:98
+#: home/mixins.py:40 home/models.py:106
 msgid "updated_at"
 msgstr "updated_at"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:74
+#: home/models.py:82
 msgid "first name"
 msgstr "名"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:75
+#: home/models.py:83
 msgid "last name"
 msgstr "姓氏"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:76
+#: home/models.py:84
 msgid "deakin email address"
 msgstr "迪肯电子邮箱"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:80
+#: home/models.py:88
 msgid "staff status"
 msgstr "员工状况"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:82
+#: home/models.py:90
 msgid "Designates whether the user can log into this admin site."
 msgstr "指定用户是否可以登录此管理站点。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:85
+#: home/models.py:93
 msgid "active"
 msgstr "活动"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:88
+#: home/models.py:96
 msgid ""
 "Designates whether this user should be treated as active. Unselect this "
 "instead of deleting accounts."
 msgstr "指定是否将此用户视为活动用户。取消选择此选项将不会删除账户。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:93
+#: home/models.py:101
 msgid "verified"
 msgstr "属实"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:95
+#: home/models.py:103
 msgid "Designates whether the user has verified their account."
 msgstr "指定用户是否已验证其账户。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:114
+#: home/models.py:122
 msgid "user"
 msgstr "用户"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:115
+#: home/models.py:123
 msgid "users"
 msgstr "用户"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:211
+#: home/models.py:246
 msgid "project title"
 msgstr "项目名称"
 
-#: home/models.py:212
+#: home/models.py:247
 msgid "archived"
 msgstr ""
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL] [auto-
 # translated provider=DeepL]
-#: home/models.py:213
+#: home/models.py:248
 #, fuzzy
 #| msgid "Your description"
 msgid "project description"
 msgstr "您的描述"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:222
+#: home/models.py:257
 msgid "course title"
 msgstr "课程名称"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:223
+#: home/models.py:258
 msgid "course code"
 msgstr "课程代码"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:224
+#: home/models.py:259
 msgid "postgraduate status"
 msgstr "研究生身份"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:278
+#: home/models.py:313
 msgid "student_id"
 msgstr "学生编号"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:281
+#: home/models.py:316
 msgid "Required. Enter Deakin Student ID. Digits only."
 msgstr "必须填写。输入迪肯学生 ID。仅限数字。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:284
+#: home/models.py:319
 msgid "A user with that Student ID already exists."
 msgstr "该学生 ID 的用户已经存在。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:289
+#: home/models.py:324
 msgid "trimester"
 msgstr "三个月"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:290
+#: home/models.py:325
 msgid "unit"
 msgstr "单位"
 
@@ -408,150 +408,150 @@ msgid "Last Updated:"
 msgstr "最后更新"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:40
-#: home/templates/includes/navigation.html:244
+#: home/templates/includes/navigation.html:707
+#: home/templates/includes/navigation.html:916
 msgid "Search..."
 msgstr "搜索..."
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:58
+#: home/templates/includes/navigation.html:725
 msgid "Upskilling"
 msgstr "提高技能"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:65
+#: home/templates/includes/navigation.html:732
 msgid "Dashboard"
 msgstr "仪表板"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:70
+#: home/templates/includes/navigation.html:737
 msgid "Skills"
 msgstr "技能"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:83
+#: home/templates/includes/navigation.html:750
 msgid "Admin Settings"
 msgstr "管理设置"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:89
+#: home/templates/includes/navigation.html:756
 msgid "User Management"
 msgstr "用户管理"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:92
+#: home/templates/includes/navigation.html:759
 msgid "Project Assignment"
 msgstr "项目任务"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:95
+#: home/templates/includes/navigation.html:762
 msgid "Project Teams"
 msgstr "项目团队"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:98
+#: home/templates/includes/navigation.html:765
 msgid "Review Blogs"
 msgstr "评论博客"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:101
+#: home/templates/includes/navigation.html:768
 msgid "Reports"
 msgstr "报告"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:111
+#: home/templates/includes/navigation.html:778
 msgid "About"
 msgstr "关于"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:117
-#: home/templates/pages/index.html:155
+#: home/templates/includes/navigation.html:789
+#: home/templates/pages/index.html:237
 msgid "Projects"
 msgstr "项目"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:126
-#: home/templates/pages/index.html:165
+#: home/templates/includes/navigation.html:798
+#: home/templates/pages/index.html:247
 msgid "AppAttack"
 msgstr "应用程序攻击"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:131
-#: home/templates/pages/index.html:180
+#: home/templates/includes/navigation.html:803
+#: home/templates/pages/index.html:262
 msgid "PT-GUI"
 msgstr "PT-GUI"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:136
-#: home/templates/pages/index.html:210
+#: home/templates/includes/navigation.html:808
+#: home/templates/pages/index.html:292
 msgid "Smishing Detection"
 msgstr "钓鱼检测"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:141
+#: home/templates/includes/navigation.html:813
 msgid "Deakin CyberSafe VR"
 msgstr "迪肯网络安全 VR"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:146
+#: home/templates/includes/navigation.html:818
 msgid "The Policy Deployment Engine (New)"
 msgstr "政策部署引擎（新）"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:151
+#: home/templates/includes/navigation.html:823
 msgid "Deakin Threat mirror (Finished)"
 msgstr "迪肯威胁镜（已完成）"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:160
+#: home/templates/includes/navigation.html:832
 msgid "Malware (Finished)"
 msgstr "恶意软件（已完成）"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:177
+#: home/templates/includes/navigation.html:849
 msgid "Create a Blog"
 msgstr "创建博客"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:184
+#: home/templates/includes/navigation.html:856
 msgid "Careers"
 msgstr "职业生涯"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:193
+#: home/templates/includes/navigation.html:865
 msgid "All Jobs"
 msgstr "所有职位"
 
-#: home/templates/includes/navigation.html:196
+#: home/templates/includes/navigation.html:868
 msgid "Graduate Program"
 msgstr ""
 
-#: home/templates/includes/navigation.html:205
+#: home/templates/includes/navigation.html:877
 msgid "Career Path Finder"
 msgstr ""
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:222
+#: home/templates/includes/navigation.html:894
 msgid "All Challenges"
 msgstr "所有挑战"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:264
+#: home/templates/includes/navigation.html:936
 msgid "Logout"
 msgstr "注销"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:286
+#: home/templates/includes/navigation.html:958
 msgid "Sign In"
 msgstr "登录"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:298
+#: home/templates/includes/navigation.html:970
 msgid "Sign Up"
 msgstr "注册"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:321
+#: home/templates/includes/navigation.html:993
 msgid "Language"
 msgstr "语言"
 
@@ -955,22 +955,22 @@ msgid "Security is a necessity. Not a choice"
 msgstr "安全是必要的。而不是一种选择"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:31
+#: home/templates/pages/index.html:38
 msgid "Explore Projects"
 msgstr "探索项目"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:32
+#: home/templates/pages/index.html:39
 msgid "Join Us"
 msgstr "加入我们"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:105
+#: home/templates/pages/index.html:187
 msgid "Company Vision"
 msgstr "公司愿景"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:106
+#: home/templates/pages/index.html:188
 msgid ""
 "Hardhat Enterprises is an organisation that aims to create cyber weapons and"
 " tools that can be used to empower white-hat operations. All deliverables "
@@ -982,12 +982,12 @@ msgstr ""
 "是一个旨在创造网络武器和工具的组织，这些武器和工具可用于增强白帽子行动的能力。公司生产的所有产品都将开源，以便任何人都可以使用并从中受益。这些可交付成果要么是对现有工具的改进，要么是填补尚未满足的市场需求。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:112
+#: home/templates/pages/index.html:194
 msgid "Company Mission"
 msgstr "公司使命"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:113
+#: home/templates/pages/index.html:195
 msgid ""
 "Achieve an engaging learning experience for students within the company. An "
 "opportunity for students to gain cross department/project experience and the"
@@ -995,7 +995,7 @@ msgid ""
 msgstr "在公司内部为学生提供吸引人的学习体验。让学生有机会获得跨部门/跨项目的经验，并有机会在项目团队之外分享他们的专业知识。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:166
+#: home/templates/pages/index.html:248
 msgid ""
 "We deliver comprehensive reports to clients, providing actionable insights "
 "to enhance code security. With a commitment to excellence, AppAttack "
@@ -1003,15 +1003,15 @@ msgid ""
 msgstr "我们向客户提供全面的报告，提供可行的见解，以提高代码的安全性。秉承追求卓越的承诺，AppAttack 使企业能够主动保护其数字资产的安全"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:168 home/templates/pages/index.html:183
-#: home/templates/pages/index.html:198 home/templates/pages/index.html:213
-#: home/templates/pages/index.html:228 home/templates/pages/index.html:243
-#: home/templates/pages/index.html:258
+#: home/templates/pages/index.html:250 home/templates/pages/index.html:265
+#: home/templates/pages/index.html:280 home/templates/pages/index.html:295
+#: home/templates/pages/index.html:310 home/templates/pages/index.html:325
+#: home/templates/pages/index.html:340
 msgid "Learn More"
 msgstr "了解更多"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:181
+#: home/templates/pages/index.html:263
 msgid ""
 "Introducing the Deakin Detonator Toolkit (DDT) – the cutting-edge arsenal "
 "for modern penetration testers. Born from the innovative minds at PT-GUI, "
@@ -1022,12 +1022,12 @@ msgstr ""
 "的创新思想，它不仅仅是一个工具包，更是网络安全实践的一场革命。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:195
+#: home/templates/pages/index.html:277
 msgid "CyberSafe VR"
 msgstr "网络安全 VR"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:196
+#: home/templates/pages/index.html:278
 msgid ""
 "Deakin CyberSafe VR revolutionises cybersecurity training for small "
 "businesses by using interactive VR technology to blend theory with practical"
@@ -1036,7 +1036,7 @@ msgstr ""
 "迪肯网络安全 VR 利用交互式 VR 技术，将理论与实际应用相结合，帮助企业主和员工采取网络安全措施，从而彻底改变了小型企业的网络安全培训。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:211
+#: home/templates/pages/index.html:293
 msgid ""
 "Smishing Detection aims to develop an innovative smishing detection app for "
 "Android and iOS devices to moderate the risks associated with SMS phishing "
@@ -1045,12 +1045,12 @@ msgstr ""
 "Smishing Detection 旨在为 Android 和 iOS 设备开发一款创新的网络钓鱼检测应用程序，以降低与短信网络钓鱼攻击相关的风险。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:225
+#: home/templates/pages/index.html:307
 msgid "Threat Mirror <br>(Project Paused)"
 msgstr "威胁镜像 <br>（项目暂停）"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:226
+#: home/templates/pages/index.html:308
 msgid ""
 "Threat Mirror aims to investigate open-source threat intelligence platforms,"
 " assessing their suitability and adaptability for SMEs and developing "
@@ -1058,12 +1058,12 @@ msgid ""
 msgstr "Threat Mirror 的目标是调查开源威胁情报平台，评估其对中小型企业和发展中经济体的适用性和适应性。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:240
+#: home/templates/pages/index.html:322
 msgid "Malware Visualization"
 msgstr "恶意软件可视化"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:241
+#: home/templates/pages/index.html:323
 msgid ""
 "The Malware Visualisation project creates a user-friendly tool that "
 "simplifies malware analysis by integrating with existing visual analytics "
@@ -1071,81 +1071,81 @@ msgid ""
 msgstr "恶意软件可视化项目创建了一个用户友好型工具，通过与现有的可视化分析应用程序集成，简化了恶意软件分析。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:255
+#: home/templates/pages/index.html:337
 msgid "The Policy Deployment Engine"
 msgstr "政策部署引擎"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:256
+#: home/templates/pages/index.html:338
 msgid ""
 "The Policy Deployment Engine is a tool that allows users to deploy policies "
 "to their systems."
 msgstr "策略部署引擎是一种允许用户在系统中部署策略的工具。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:423
+#: home/templates/pages/index.html:505
 msgid "Cybersecurity News"
 msgstr "网络安全新闻"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:431
+#: home/templates/pages/index.html:513
 msgid "TROX Stealer Malware Spreads via Fake Updates"
 msgstr "TROX 窃取程序恶意软件通过虚假更新传播"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:432
+#: home/templates/pages/index.html:514
 msgid ""
 "A new wave of cyberattacks spreads malware through fake software update "
 "alerts targeting unsuspecting users globally."
 msgstr "新一轮网络攻击通过虚假软件更新提醒传播恶意软件，目标是全球毫无戒心的用户。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:433 home/templates/pages/index.html:445
-#: home/templates/pages/index.html:457
+#: home/templates/pages/index.html:515 home/templates/pages/index.html:527
+#: home/templates/pages/index.html:539
 msgid "Read More"
 msgstr "更多信息"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:443
+#: home/templates/pages/index.html:525
 msgid "AI Shaping the Future of Cyber Defense"
 msgstr "人工智能塑造网络防御的未来"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:444
+#: home/templates/pages/index.html:526
 msgid ""
 "Experts explore how artificial intelligence is transforming threat detection"
 " and proactive cybersecurity measures worldwide."
 msgstr "专家们探讨了人工智能如何在全球范围内改变威胁检测和主动网络安全措施。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:455
+#: home/templates/pages/index.html:537
 msgid "Zero Trust Security: Why It Matters in 2025"
 msgstr "零信任安全：2025 年的重要性"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:456
+#: home/templates/pages/index.html:538
 msgid ""
 "With rising remote work trends, the zero-trust model becomes essential in "
 "securing networks beyond traditional perimeters."
 msgstr "随着远程工作趋势的不断上升，零信任模式对于确保传统边界之外的网络安全变得至关重要。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:504
+#: home/templates/pages/index.html:586
 msgid "FAQ"
 msgstr "常见问题"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:505
+#: home/templates/pages/index.html:587
 msgid "What Our Clients Recently ask"
 msgstr "我们的客户最近提出的问题"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:510
+#: home/templates/pages/index.html:592
 msgid "What is cybersecurity and why do I need it? "
 msgstr "什么是网络安全，为什么需要网络安全？"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:513
+#: home/templates/pages/index.html:595
 msgid ""
 "Cybersecurity is the practice of protecting systems, networks, and programs "
 "from digital attacks, data breaches, and other cyber threats. It is "
@@ -1154,12 +1154,12 @@ msgid ""
 msgstr "网络安全是保护系统、网络和程序免受数字攻击、数据泄露和其他网络威胁的实践。对于企业和个人来说，保护敏感信息免遭恶意活动的侵害至关重要。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:519
+#: home/templates/pages/index.html:601
 msgid "How can I protect my business from cyber threats? "
 msgstr "如何保护企业免受网络威胁？"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:522
+#: home/templates/pages/index.html:604
 msgid ""
 "Our cybersecurity services offer comprehensive solutions including threat "
 "monitoring, data encryption, firewall protection, penetration testing, and "
@@ -1167,12 +1167,12 @@ msgid ""
 msgstr "我们的网络安全服务提供全面的解决方案，包括威胁监控、数据加密、防火墙保护、渗透测试和员工培训。这些措施有助于降低网络威胁的风险。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:528
+#: home/templates/pages/index.html:610
 msgid "What is a data breach and how can I prevent one? "
 msgstr "什么是数据泄露，如何防止数据泄露？"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:531
+#: home/templates/pages/index.html:613
 msgid ""
 "A data breach occurs when sensitive information is accessed or stolen by "
 "unauthorized individuals. Preventive measures include securing networks, "
@@ -1181,17 +1181,17 @@ msgid ""
 msgstr "当敏感信息被未经授权的个人访问或窃取时，就会发生数据泄露。预防措施包括确保网络安全、使用高强度密码、加密敏感数据以及定期更新安全协议。"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:544
+#: home/templates/pages/index.html:626
 msgid "Announcement"
 msgstr "公告"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:548
+#: home/templates/pages/index.html:630
 msgid "{{ announcement_message }}"
 msgstr "{{ 公告信息 }}"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:551
+#: home/templates/pages/index.html:633
 msgid "Close"
 msgstr "关闭"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-09 16:34+1000\n"
+"POT-Creation-Date: 2025-09-14 22:02+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 #: home/context_processors.py:59 home/context_processors.py:60
 #: home/templates/admin/home/app_index.html:7
 #: home/templates/includes/footer.html:50
-#: home/templates/includes/navigation.html:52
+#: home/templates/includes/navigation.html:719
 msgid "Home"
 msgstr "ホーム"
 
@@ -53,171 +53,171 @@ msgid "Upload Image"
 msgstr "画像のアップロード"
 
 # [auto-translated provider=DeepL]
-#: home/context_processors.py:67 home/templates/includes/navigation.html:170
+#: home/context_processors.py:67 home/templates/includes/navigation.html:842
 msgid "Blog"
 msgstr "ブログ"
 
 # [auto-translated provider=DeepL]
-#: home/context_processors.py:68 home/templates/includes/navigation.html:178
+#: home/context_processors.py:68 home/templates/includes/navigation.html:850
 #: home/templates/pages/publishedblog.html:8
 msgid "Published Blogs"
 msgstr "掲載ブログ"
 
 # [auto-translated provider=DeepL]
-#: home/context_processors.py:69 home/templates/includes/navigation.html:190
+#: home/context_processors.py:69 home/templates/includes/navigation.html:862
 msgid "Discover Hardhat"
 msgstr "ハードハット"
 
 # [auto-translated provider=DeepL]
-#: home/context_processors.py:70 home/templates/includes/navigation.html:199
+#: home/context_processors.py:70 home/templates/includes/navigation.html:871
 msgid "Internships"
 msgstr "インターンシップ"
 
 # [auto-translated provider=DeepL]
-#: home/context_processors.py:71 home/templates/includes/navigation.html:202
+#: home/context_processors.py:71 home/templates/includes/navigation.html:874
 msgid "Job Alerts"
 msgstr "ジョブアラート"
 
 # [auto-translated provider=DeepL]
-#: home/context_processors.py:72 home/templates/includes/navigation.html:215
+#: home/context_processors.py:72 home/templates/includes/navigation.html:887
 msgid "Cyber Challenges"
 msgstr "サイバーチャレンジ"
 
 # [auto-translated provider=DeepL]
-#: home/context_processors.py:73 home/templates/includes/navigation.html:227
+#: home/context_processors.py:73 home/templates/includes/navigation.html:899
 msgid "Quiz"
 msgstr "クイズ"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:36
+#: home/forms.py:38
 msgid "Email"
 msgstr "電子メール"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:42 home/forms.py:125
+#: home/forms.py:44 home/forms.py:127
 msgid "Your Password"
 msgstr "パスワード"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:46 home/forms.py:129
+#: home/forms.py:48 home/forms.py:131
 msgid "Confirm Password"
 msgstr "パスワードの確認"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:55 home/forms.py:138
+#: home/forms.py:57 home/forms.py:140
 msgid "Password must be at least 8 characters long."
 msgstr "パスワードは8文字以上でなければなりません。"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:58 home/forms.py:141
+#: home/forms.py:60 home/forms.py:143
 msgid "Password must include at least one lowercase letter."
 msgstr "パスワードには小文字を1文字以上含めること。"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:61 home/forms.py:144
+#: home/forms.py:63 home/forms.py:146
 msgid "Password must include at least one uppercase letter."
 msgstr "パスワードには少なくとも1つの大文字を含める必要があります。"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:64 home/forms.py:147
+#: home/forms.py:66 home/forms.py:149
 msgid "Password must include at least one number."
 msgstr "パスワードには少なくとも1つの数字を含めること。"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:67 home/forms.py:150
+#: home/forms.py:69 home/forms.py:152
 msgid ""
 "Password must include at least one special character (@, $, !, %, *, ?, &)."
 msgstr "パスワードには少なくとも1つの特殊文字（@, $, !, %, *, ?, &）を含める必要があります。"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:82
+#: home/forms.py:84
 msgid "Email must match your Deakin email."
 msgstr "EメールはDeakinのEメールと一致している必要があります。"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:91 home/forms.py:166
+#: home/forms.py:93 home/forms.py:168
 msgid "First Name"
 msgstr "名前"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:92 home/forms.py:167
+#: home/forms.py:94 home/forms.py:169
 msgid "Last Name"
 msgstr "ラストネーム"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:93
+#: home/forms.py:95
 msgid "Deakin Email Address"
 msgstr "ディーキンEメールアドレス"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:114
+#: home/forms.py:116
 msgid "Business Email"
 msgstr "ビジネスメール"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:120
+#: home/forms.py:122
 msgid "Business Name"
 msgstr "事業名"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:168
+#: home/forms.py:170
 #, fuzzy
 #| msgid "Business Email"
 msgid "Business Email Address"
 msgstr "ビジネスメール"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:182 home/forms.py:239
+#: home/forms.py:184 home/forms.py:241
 msgid "Password"
 msgstr "パスワード"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:199 home/forms.py:222
+#: home/forms.py:201 home/forms.py:224
 msgid "Too many login attempts. Please try again later."
 msgstr "ログイン試行回数が多すぎます。後で再試行してください。"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:277 home/templates/pages/about.html:583
+#: home/forms.py:279 home/templates/pages/about.html:583
 msgid "Your Email"
 msgstr "Eメール"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:283 home/forms.py:295
+#: home/forms.py:285 home/forms.py:297
 msgid "New Password"
 msgstr "新しいパスワード"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:286 home/forms.py:298
+#: home/forms.py:288 home/forms.py:300
 msgid "Confirm New Password"
 msgstr "新しいパスワードの確認"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:292
+#: home/forms.py:294
 msgid "Old Password"
 msgstr "旧パスワード"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:301
+#: home/forms.py:303
 msgid "Deakin Student ID"
 msgstr "ディーキン学生証"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:304
+#: home/forms.py:306
 msgid "Year"
 msgstr "年"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:514
+#: home/forms.py:516
 msgid "Your name"
 msgstr "お名前"
 
 # [auto-translated provider=DeepL]
-#: home/forms.py:515
+#: home/forms.py:517
 msgid "Your title"
 msgstr "肩書き"
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/forms.py:516
+#: home/forms.py:518
 msgid "Your description"
 msgstr "あなたの説明"
 
@@ -232,125 +232,125 @@ msgid "Superuser must have is_staff = True"
 msgstr "スーパーユーザはis_staff = Trueでなければならない。"
 
 # [auto-translated provider=DeepL]
-#: home/mixins.py:39 home/models.py:97
+#: home/mixins.py:39 home/models.py:105
 msgid "created_at"
 msgstr "作成日時"
 
 # [auto-translated provider=DeepL]
-#: home/mixins.py:40 home/models.py:98
+#: home/mixins.py:40 home/models.py:106
 msgid "updated_at"
 msgstr "更新日時"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:74
+#: home/models.py:82
 msgid "first name"
 msgstr "ファーストネーム"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:75
+#: home/models.py:83
 msgid "last name"
 msgstr "ラストネーム"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:76
+#: home/models.py:84
 msgid "deakin email address"
 msgstr "ディーキンのメールアドレス"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:80
+#: home/models.py:88
 msgid "staff status"
 msgstr "スタッフステータス"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:82
+#: home/models.py:90
 msgid "Designates whether the user can log into this admin site."
 msgstr "ユーザがこの管理サイトにログインできるかどうかを指定します。"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:85
+#: home/models.py:93
 msgid "active"
 msgstr "アクティブ"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:88
+#: home/models.py:96
 msgid ""
 "Designates whether this user should be treated as active. Unselect this "
 "instead of deleting accounts."
 msgstr "このユーザーをアクティブとして扱うかどうかを指定します。アカウントを削除する代わりに、この選択を解除してください。"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:93
+#: home/models.py:101
 msgid "verified"
 msgstr "検証済み"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:95
+#: home/models.py:103
 msgid "Designates whether the user has verified their account."
 msgstr "ユーザがアカウントを認証したかどうかを指定します。"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:114
+#: home/models.py:122
 msgid "user"
 msgstr "ユーザー"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:115
+#: home/models.py:123
 msgid "users"
 msgstr "ユーザー"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:211
+#: home/models.py:246
 msgid "project title"
 msgstr "プロジェクト・タイトル"
 
-#: home/models.py:212
+#: home/models.py:247
 msgid "archived"
 msgstr ""
 
 # [auto-translated provider=DeepL] [auto-translated provider=DeepL]
-#: home/models.py:213
+#: home/models.py:248
 #, fuzzy
 #| msgid "Your description"
 msgid "project description"
 msgstr "あなたの説明"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:222
+#: home/models.py:257
 msgid "course title"
 msgstr "コース名"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:223
+#: home/models.py:258
 msgid "course code"
 msgstr "コースコード"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:224
+#: home/models.py:259
 msgid "postgraduate status"
 msgstr "学位"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:278
+#: home/models.py:313
 msgid "student_id"
 msgstr "学生ID"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:281
+#: home/models.py:316
 msgid "Required. Enter Deakin Student ID. Digits only."
 msgstr "必須Deakin Student IDを入力してください。桁のみ。"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:284
+#: home/models.py:319
 msgid "A user with that Student ID already exists."
 msgstr "その学生IDを持つユーザーはすでに存在しています。"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:289
+#: home/models.py:324
 msgid "trimester"
 msgstr "学期"
 
 # [auto-translated provider=DeepL]
-#: home/models.py:290
+#: home/models.py:325
 msgid "unit"
 msgstr "単位"
 
@@ -406,150 +406,150 @@ msgid "Last Updated:"
 msgstr "最終更新日"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:40
-#: home/templates/includes/navigation.html:244
+#: home/templates/includes/navigation.html:707
+#: home/templates/includes/navigation.html:916
 msgid "Search..."
 msgstr "検索..."
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:58
+#: home/templates/includes/navigation.html:725
 msgid "Upskilling"
 msgstr "アップスキリング"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:65
+#: home/templates/includes/navigation.html:732
 msgid "Dashboard"
 msgstr "ダッシュボード"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:70
+#: home/templates/includes/navigation.html:737
 msgid "Skills"
 msgstr "スキル"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:83
+#: home/templates/includes/navigation.html:750
 msgid "Admin Settings"
 msgstr "管理者設定"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:89
+#: home/templates/includes/navigation.html:756
 msgid "User Management"
 msgstr "ユーザー管理"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:92
+#: home/templates/includes/navigation.html:759
 msgid "Project Assignment"
 msgstr "プロジェクト課題"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:95
+#: home/templates/includes/navigation.html:762
 msgid "Project Teams"
 msgstr "プロジェクトチーム"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:98
+#: home/templates/includes/navigation.html:765
 msgid "Review Blogs"
 msgstr "レビューブログ"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:101
+#: home/templates/includes/navigation.html:768
 msgid "Reports"
 msgstr "レポート"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:111
+#: home/templates/includes/navigation.html:778
 msgid "About"
 msgstr "について"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:117
-#: home/templates/pages/index.html:155
+#: home/templates/includes/navigation.html:789
+#: home/templates/pages/index.html:237
 msgid "Projects"
 msgstr "プロジェクト"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:126
-#: home/templates/pages/index.html:165
+#: home/templates/includes/navigation.html:798
+#: home/templates/pages/index.html:247
 msgid "AppAttack"
 msgstr "AppAttack"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:131
-#: home/templates/pages/index.html:180
+#: home/templates/includes/navigation.html:803
+#: home/templates/pages/index.html:262
 msgid "PT-GUI"
 msgstr "PT-GUI"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:136
-#: home/templates/pages/index.html:210
+#: home/templates/includes/navigation.html:808
+#: home/templates/pages/index.html:292
 msgid "Smishing Detection"
 msgstr "スミッシング検知"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:141
+#: home/templates/includes/navigation.html:813
 msgid "Deakin CyberSafe VR"
 msgstr "ディーキン・サイバーセーフVR"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:146
+#: home/templates/includes/navigation.html:818
 msgid "The Policy Deployment Engine (New)"
 msgstr "ポリシー展開エンジン (新)"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:151
+#: home/templates/includes/navigation.html:823
 msgid "Deakin Threat mirror (Finished)"
 msgstr "ディーキン・スレットミラー（完成）"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:160
+#: home/templates/includes/navigation.html:832
 msgid "Malware (Finished)"
 msgstr "マルウェア（終了）"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:177
+#: home/templates/includes/navigation.html:849
 msgid "Create a Blog"
 msgstr "ブログの作成"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:184
+#: home/templates/includes/navigation.html:856
 msgid "Careers"
 msgstr "採用情報"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:193
+#: home/templates/includes/navigation.html:865
 msgid "All Jobs"
 msgstr "すべての求人"
 
-#: home/templates/includes/navigation.html:196
+#: home/templates/includes/navigation.html:868
 msgid "Graduate Program"
 msgstr ""
 
-#: home/templates/includes/navigation.html:205
+#: home/templates/includes/navigation.html:877
 msgid "Career Path Finder"
 msgstr ""
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:222
+#: home/templates/includes/navigation.html:894
 msgid "All Challenges"
 msgstr "すべての挑戦"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:264
+#: home/templates/includes/navigation.html:936
 msgid "Logout"
 msgstr "ログアウト"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:286
+#: home/templates/includes/navigation.html:958
 msgid "Sign In"
 msgstr "サインイン"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:298
+#: home/templates/includes/navigation.html:970
 msgid "Sign Up"
 msgstr "会員登録"
 
 # [auto-translated provider=DeepL]
-#: home/templates/includes/navigation.html:321
+#: home/templates/includes/navigation.html:993
 msgid "Language"
 msgstr "言語"
 
@@ -941,22 +941,22 @@ msgid "Security is a necessity. Not a choice"
 msgstr "セキュリティーは必要不可欠だ。選択ではない"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:31
+#: home/templates/pages/index.html:38
 msgid "Explore Projects"
 msgstr "プロジェクトを探る"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:32
+#: home/templates/pages/index.html:39
 msgid "Join Us"
 msgstr "参加する"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:105
+#: home/templates/pages/index.html:187
 msgid "Company Vision"
 msgstr "企業ビジョン"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:106
+#: home/templates/pages/index.html:188
 msgid ""
 "Hardhat Enterprises is an organisation that aims to create cyber weapons and"
 " tools that can be used to empower white-hat operations. All deliverables "
@@ -968,12 +968,12 @@ msgstr ""
 "Enterprisesは、ホワイトハット・オペレーションを強化するために使用できるサイバー兵器やツールを作成することを目的とした組織である。同社が作成する成果物はすべてオープンソースとし、誰もがそれを使用し、利益を得ることができるようにする。これらの成果物は、既存のツールを改良するか、まだ満たされていない市場のニーズを満たすものでなければならない。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:112
+#: home/templates/pages/index.html:194
 msgid "Company Mission"
 msgstr "会社の使命"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:113
+#: home/templates/pages/index.html:195
 msgid ""
 "Achieve an engaging learning experience for students within the company. An "
 "opportunity for students to gain cross department/project experience and the"
@@ -982,7 +982,7 @@ msgstr ""
 "社内で学生にとって魅力的な学習体験を実現する。学生が部門やプロジェクトを横断して経験を積み、プロジェクトチーム以外の専門知識を共有する機会を得る。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:166
+#: home/templates/pages/index.html:248
 msgid ""
 "We deliver comprehensive reports to clients, providing actionable insights "
 "to enhance code security. With a commitment to excellence, AppAttack "
@@ -991,15 +991,15 @@ msgstr ""
 "コードセキュリティを強化するための実用的な洞察を提供する包括的なレポートをお客様にお届けします。AppAttackは、卓越性へのコミットメントにより、企業がデジタル資産をプロアクティブに保護できるよう支援します。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:168 home/templates/pages/index.html:183
-#: home/templates/pages/index.html:198 home/templates/pages/index.html:213
-#: home/templates/pages/index.html:228 home/templates/pages/index.html:243
-#: home/templates/pages/index.html:258
+#: home/templates/pages/index.html:250 home/templates/pages/index.html:265
+#: home/templates/pages/index.html:280 home/templates/pages/index.html:295
+#: home/templates/pages/index.html:310 home/templates/pages/index.html:325
+#: home/templates/pages/index.html:340
 msgid "Learn More"
 msgstr "さらに詳しく"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:181
+#: home/templates/pages/index.html:263
 msgid ""
 "Introducing the Deakin Detonator Toolkit (DDT) – the cutting-edge arsenal "
 "for modern penetration testers. Born from the innovative minds at PT-GUI, "
@@ -1010,12 +1010,12 @@ msgstr ""
 "GUIの革新的な頭脳から生まれたDDTは、単なるツールキットではなく、サイバーセキュリティの実践における革命です。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:195
+#: home/templates/pages/index.html:277
 msgid "CyberSafe VR"
 msgstr "サイバーセーフVR"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:196
+#: home/templates/pages/index.html:278
 msgid ""
 "Deakin CyberSafe VR revolutionises cybersecurity training for small "
 "businesses by using interactive VR technology to blend theory with practical"
@@ -1025,7 +1025,7 @@ msgstr ""
 "VRは、インタラクティブなVR技術を使用して、サイバーセキュリティ対策を講じる経営者や従業員のための実践的なアプリケーションと理論を融合させることにより、中小企業向けのサイバーセキュリティ・トレーニングに革命をもたらします。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:211
+#: home/templates/pages/index.html:293
 msgid ""
 "Smishing Detection aims to develop an innovative smishing detection app for "
 "Android and iOS devices to moderate the risks associated with SMS phishing "
@@ -1035,12 +1035,12 @@ msgstr ""
 "Detectionは、SMSフィッシング攻撃に関連するリスクを軽減するために、AndroidおよびiOSデバイス用の革新的なスミッシング検知アプリを開発することを目的としています。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:225
+#: home/templates/pages/index.html:307
 msgid "Threat Mirror <br>(Project Paused)"
 msgstr "脅威の鏡<br>（プロジェクト休止）"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:226
+#: home/templates/pages/index.html:308
 msgid ""
 "Threat Mirror aims to investigate open-source threat intelligence platforms,"
 " assessing their suitability and adaptability for SMEs and developing "
@@ -1050,12 +1050,12 @@ msgstr ""
 "は、オープンソースの脅威インテリジェンスプラットフォームを調査し、中小企業や発展途上国への適合性や適応性を評価することを目的としている。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:240
+#: home/templates/pages/index.html:322
 msgid "Malware Visualization"
 msgstr "マルウェアの可視化"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:241
+#: home/templates/pages/index.html:323
 msgid ""
 "The Malware Visualisation project creates a user-friendly tool that "
 "simplifies malware analysis by integrating with existing visual analytics "
@@ -1065,59 +1065,59 @@ msgstr ""
 "Visualisationプロジェクトは、既存のビジュアル分析アプリケーションと統合することで、マルウェア分析を簡素化するユーザーフレンドリーなツールを作成します。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:255
+#: home/templates/pages/index.html:337
 msgid "The Policy Deployment Engine"
 msgstr "ポリシー展開エンジン"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:256
+#: home/templates/pages/index.html:338
 msgid ""
 "The Policy Deployment Engine is a tool that allows users to deploy policies "
 "to their systems."
 msgstr "Policy Deployment Engineは、ユーザーがシステムにポリシーをデプロイするためのツールである。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:423
+#: home/templates/pages/index.html:505
 msgid "Cybersecurity News"
 msgstr "サイバーセキュリティ・ニュース"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:431
+#: home/templates/pages/index.html:513
 msgid "TROX Stealer Malware Spreads via Fake Updates"
 msgstr "TROX Stealerマルウェア、偽アップデートで拡散"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:432
+#: home/templates/pages/index.html:514
 msgid ""
 "A new wave of cyberattacks spreads malware through fake software update "
 "alerts targeting unsuspecting users globally."
 msgstr "新たなサイバー攻撃の波は、世界中の無防備なユーザーを標的とした偽のソフトウェア更新アラートを通じてマルウェアを拡散させている。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:433 home/templates/pages/index.html:445
-#: home/templates/pages/index.html:457
+#: home/templates/pages/index.html:515 home/templates/pages/index.html:527
+#: home/templates/pages/index.html:539
 msgid "Read More"
 msgstr "続きを読む"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:443
+#: home/templates/pages/index.html:525
 msgid "AI Shaping the Future of Cyber Defense"
 msgstr "サイバー防衛の未来を形作るAI"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:444
+#: home/templates/pages/index.html:526
 msgid ""
 "Experts explore how artificial intelligence is transforming threat detection"
 " and proactive cybersecurity measures worldwide."
 msgstr "専門家は、人工知能がどのように世界中で脅威の検出とプロアクティブなサイバーセキュリティ対策を変革しているかを探る。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:455
+#: home/templates/pages/index.html:537
 msgid "Zero Trust Security: Why It Matters in 2025"
 msgstr "ゼロ・トラスト・セキュリティ：2025年に重要な理由"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:456
+#: home/templates/pages/index.html:538
 msgid ""
 "With rising remote work trends, the zero-trust model becomes essential in "
 "securing networks beyond traditional perimeters."
@@ -1125,22 +1125,22 @@ msgstr ""
 "リモートワークのトレンドが高まる中、ゼロトラスト・モデルは、従来の境界線を越えたネットワークの安全性を確保する上で不可欠なものとなっている。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:504
+#: home/templates/pages/index.html:586
 msgid "FAQ"
 msgstr "よくあるご質問"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:505
+#: home/templates/pages/index.html:587
 msgid "What Our Clients Recently ask"
 msgstr "クライアントからの最近の質問"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:510
+#: home/templates/pages/index.html:592
 msgid "What is cybersecurity and why do I need it? "
 msgstr "サイバーセキュリティとは何か、なぜ必要なのか？"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:513
+#: home/templates/pages/index.html:595
 msgid ""
 "Cybersecurity is the practice of protecting systems, networks, and programs "
 "from digital attacks, data breaches, and other cyber threats. It is "
@@ -1150,12 +1150,12 @@ msgstr ""
 "サイバーセキュリティとは、システム、ネットワーク、プログラムをデジタル攻撃、データ漏洩、その他のサイバー脅威から保護することである。悪意のある活動から機密情報を守ることは、企業や個人にとって不可欠である。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:519
+#: home/templates/pages/index.html:601
 msgid "How can I protect my business from cyber threats? "
 msgstr "サイバー脅威からビジネスを守るには？"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:522
+#: home/templates/pages/index.html:604
 msgid ""
 "Our cybersecurity services offer comprehensive solutions including threat "
 "monitoring, data encryption, firewall protection, penetration testing, and "
@@ -1164,12 +1164,12 @@ msgstr ""
 "当社のサイバーセキュリティサービスは、脅威の監視、データの暗号化、ファイアウォール保護、侵入テスト、従業員トレーニングなどの包括的なソリューションを提供します。これらの対策により、サイバー脅威のリスクを軽減することができます。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:528
+#: home/templates/pages/index.html:610
 msgid "What is a data breach and how can I prevent one? "
 msgstr "データ漏えいとは何か、どうすればデータ漏えいを防ぐことができるのか？"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:531
+#: home/templates/pages/index.html:613
 msgid ""
 "A data breach occurs when sensitive information is accessed or stolen by "
 "unauthorized individuals. Preventive measures include securing networks, "
@@ -1179,17 +1179,17 @@ msgstr ""
 "データ漏洩は、機密情報が権限のない個人によってアクセスされたり、盗まれたりすることで発生します。予防策には、ネットワークの保護、強力なパスワードの使用、機密データの暗号化、セキュリティ・プロトコルの定期的な更新などが含まれる。"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:544
+#: home/templates/pages/index.html:626
 msgid "Announcement"
 msgstr "発表"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:548
+#: home/templates/pages/index.html:630
 msgid "{{ announcement_message }}"
 msgstr "{{ announcement_message }}"
 
 # [auto-translated provider=DeepL]
-#: home/templates/pages/index.html:551
+#: home/templates/pages/index.html:633
 msgid "Close"
 msgstr "閉じる"
 
